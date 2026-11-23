@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this work, cite it."
+title: "Correcting Klanderman et al.'s isolated-top transfer-system conjecture via DeMark et al.'s tulip theorem"
+authors:
+  - name: "Haobo Ma"
+  - name: "Wenlin Zhang"
+date-released: "2026-11-23"
+version: "2"
+url: "https://mathesis-omega-research.apps.chrono-ai.fun/papers/klanderman-conjecture-4-2?version=2"
+license: "CC-BY-4.0"

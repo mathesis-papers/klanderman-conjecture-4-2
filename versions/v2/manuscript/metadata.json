@@ -1,0 +1,23 @@
+{
+  "id": "klanderman-conjecture-4-2",
+  "revision": 2,
+  "problem_ids": [
+    "klanderman-2025-conjecture-4-2"
+  ],
+  "topic": "Ordinary transfer generation, compatibility and lesser simple pairing under an isolated-top two-component hypothesis",
+  "title": "Correcting Klanderman et al.'s isolated-top transfer-system conjecture via DeMark et al.'s tulip theorem",
+  "creators": [
+    {
+      "name": "Ma, Haobo",
+      "affiliation": "ChronoAI Pte Ltd, Singapore"
+    },
+    {
+      "name": "Zhang, Wenlin",
+      "affiliation": "National University of Singapore; ChronoAI Pte Ltd, Singapore"
+    }
+  ],
+  "abstract": "Conjecture 4.2 of Klanderman, Lewis, Monson, Shibata and Van Niel, in Characterizing Transfer Systems for Non-Abelian Groups, arXiv:2511.13439v2, Section 4, printed page 15, receives an explicit correction by an elementary derivation from DeMark et al.’s tulip theorem (arXiv:2604.00335v1, 1 April 2026, Proposition 3.17) and the hull theorem of Mazur et al. (2024, Proposition 2.14). Under the conjecture’s two-component hypothesis with isolated top, the transfer system is non-LSP precisely when the group order is composite, and its ordinary generated extension is compatible precisely when the original system is saturated. The non-LSP classification needs only top isolation, not two components; under the original hypotheses, all compatible partners form the lattice of conjugation-invariant order ideals of proper subgroups. On Q8, the system consisting of identities and e to H for every proper subgroup H violates compatibility: the generated extension omits {±1} to <i>. The classification also identifies the least compatible extension containing e to G and separates ordinary transfer generation from compatibility closure.",
+  "summary": "A quaternion counterexample and a self-contained derivation from the tulip and hull theorems correct the isolated-top conjecture. Written corollaries classify compatible partners by conjugation-invariant order ideals, remove the two-component hypothesis from the prime-order LSP criterion and classify isolated-top cosaturated systems. Exact finite checks cover seven groups. The arbitrary-group compatibility criterion is credited to DeMark et al. and Mazur et al.; earlier cyclic and star-generation results are also credited. The Frobenius-width and dihedral-complexity questions are covered by cited work of Chakravarthy and Ghosh.",
+  "license": "cc-by-4.0",
+  "evidence_url": "https://github.com/the-omega-institute/trureturing/blob/8acba483bc80695fef00c6b8c491e2ae16d5145f/D5/S3/FiniteGroups/KlandermanConjecture42Refutation.lean"
+}

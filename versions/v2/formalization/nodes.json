@@ -1,0 +1,172 @@
+{
+  "nodes": [
+    {
+      "attribution": null,
+      "authors": [
+        {
+          "affiliation": "ChronoAI Pte Ltd, Singapore",
+          "name": "Haobo Ma"
+        },
+        {
+          "affiliation": "National University of Singapore; ChronoAI Pte Ltd, Singapore",
+          "name": "Wenlin Zhang"
+        }
+      ],
+      "claim": "s1",
+      "contributor": null,
+      "identity": "collected:klanderman-conjecture-4-2:2:s1",
+      "kind": "paper",
+      "label": "Theorem",
+      "lean_source": {
+        "revision": "8acba483bc80695fef00c6b8c491e2ae16d5145f",
+        "url": "https://github.com/the-omega-institute/trureturing/blob/8acba483bc80695fef00c6b8c491e2ae16d5145f/D5/S3/FiniteGroups/KlandermanConjecture42Refutation.lean"
+      },
+      "lineage": "collected:klanderman-conjecture-4-2:s1",
+      "macros": {
+        "\\Hull": "\\operatorname{Hull}",
+        "\\Sub": "\\operatorname{Sub}",
+        "\\gen": "\\operatorname{gen}",
+        "\\id": "\\operatorname{id}"
+      },
+      "next_step": "Existing Lean evidence is being checked before new proof work.",
+      "proof_basis": null,
+      "proof_state": "preparing",
+      "receipt": null,
+      "record": "klanderman-conjecture-4-2",
+      "scope": "in_scope",
+      "statement": "Suppose $T$ satisfies the component hypotheses of Conjecture 4.2.\nThen $P\\subseteq T\\subseteq V$, and the following statements hold.\n\\begin{enumerate}\n\\item $\\gen(T\\cup\\{e\\to G\\})=T\\cup\\{(e,G)\\}$.\n\\item $\\Hull(T)=V$. For a transfer system $U$, $(T,U)$ is compatible\nif and only if $V\\subseteq U$.\n\\item The ordinary generated extension in (1) is compatible with $T$\nif and only if $T=V$, equivalently if and only if $T$ is saturated.\nThe least compatible extension containing $e\\to G$ is $W$.\n\\item $T$ is LSP if and only if $|G|$ is prime.\n\\end{enumerate}\nConversely, every transfer system between $P$ and $V$ satisfies the\ncomponent hypotheses.",
+      "status": "preparing",
+      "target_digest": null,
+      "title": "Correcting Klanderman et al.'s isolated-top transfer-system conjecture via DeMark et al.'s tulip theorem",
+      "toolchain": null,
+      "version": 2,
+      "work": "klanderman-conjecture-4-2"
+    },
+    {
+      "attribution": null,
+      "authors": [
+        {
+          "affiliation": "ChronoAI Pte Ltd, Singapore",
+          "name": "Haobo Ma"
+        },
+        {
+          "affiliation": "National University of Singapore; ChronoAI Pte Ltd, Singapore",
+          "name": "Wenlin Zhang"
+        }
+      ],
+      "claim": "s2",
+      "contributor": null,
+      "identity": "collected:klanderman-conjecture-4-2:2:s2",
+      "kind": "paper",
+      "label": "Corollary",
+      "lean_source": {
+        "revision": "8acba483bc80695fef00c6b8c491e2ae16d5145f",
+        "url": "https://github.com/the-omega-institute/trureturing/blob/8acba483bc80695fef00c6b8c491e2ae16d5145f/D5/S3/FiniteGroups/KlandermanConjecture42Refutation.lean"
+      },
+      "lineage": "collected:klanderman-conjecture-4-2:s2",
+      "macros": {
+        "\\Hull": "\\operatorname{Hull}",
+        "\\Sub": "\\operatorname{Sub}",
+        "\\gen": "\\operatorname{gen}",
+        "\\id": "\\operatorname{id}"
+      },
+      "next_step": "Existing Lean evidence is being checked before new proof work.",
+      "proof_basis": null,
+      "proof_state": "preparing",
+      "receipt": null,
+      "record": "klanderman-conjecture-4-2",
+      "scope": "in_scope",
+      "statement": "Under the hypotheses of Theorem~\\ref{thm:classification}, the compatible\ngreater systems are exactly\n\\[\n U_I=V\\cup\\{(K,G):K\\in I\\},\n\\]\nwhere $I$ runs through the conjugation-invariant order ideals of the\nposet of proper subgroups of $G$.\nHere an order ideal is a set closed under passage to smaller subgroups;\nthe empty set is allowed.\nThis correspondence is an isomorphism of lattices, with intersection and\nunion as meet and join. Its only saturated members are $V$ and $\\mathcal C$.\nFor $G=C_{p^n}$, $n\\geq1$, there are exactly $n+1$ compatible greater systems.\nThis cyclic special case also follows from \\cite[Proposition 3.2]{HML}.",
+      "status": "preparing",
+      "target_digest": null,
+      "title": "Correcting Klanderman et al.'s isolated-top transfer-system conjecture via DeMark et al.'s tulip theorem",
+      "toolchain": null,
+      "version": 2,
+      "work": "klanderman-conjecture-4-2"
+    },
+    {
+      "attribution": null,
+      "authors": [
+        {
+          "affiliation": "ChronoAI Pte Ltd, Singapore",
+          "name": "Haobo Ma"
+        },
+        {
+          "affiliation": "National University of Singapore; ChronoAI Pte Ltd, Singapore",
+          "name": "Wenlin Zhang"
+        }
+      ],
+      "claim": "s3",
+      "contributor": null,
+      "identity": "collected:klanderman-conjecture-4-2:2:s3",
+      "kind": "paper",
+      "label": "Corollary",
+      "lean_source": {
+        "revision": "8acba483bc80695fef00c6b8c491e2ae16d5145f",
+        "url": "https://github.com/the-omega-institute/trureturing/blob/8acba483bc80695fef00c6b8c491e2ae16d5145f/D5/S3/FiniteGroups/KlandermanConjecture42Refutation.lean"
+      },
+      "lineage": "collected:klanderman-conjecture-4-2:s3",
+      "macros": {
+        "\\Hull": "\\operatorname{Hull}",
+        "\\Sub": "\\operatorname{Sub}",
+        "\\gen": "\\operatorname{gen}",
+        "\\id": "\\operatorname{id}"
+      },
+      "next_step": "Existing Lean evidence is being checked before new proof work.",
+      "proof_basis": null,
+      "proof_state": "preparing",
+      "receipt": null,
+      "record": "klanderman-conjecture-4-2",
+      "scope": "in_scope",
+      "statement": "For any transfer system on a nontrivial finite group with isolated $G$,\nirrespective of its number of components, LSP holds if and only if $|G|$\nis prime. Among transfer systems with isolated $G$, the identity system\nis the unique cosaturated system, and it is bisaturated.\nAt the other extreme, every connected transfer system is LSP, as in\n\\cite[Corollary 2.15 and Theorem 3.11]{M}.\nThe isolated-top assertion also follows by applying\n\\cite[Proposition 3.17]{D} to $W$.",
+      "status": "preparing",
+      "target_digest": null,
+      "title": "Correcting Klanderman et al.'s isolated-top transfer-system conjecture via DeMark et al.'s tulip theorem",
+      "toolchain": null,
+      "version": 2,
+      "work": "klanderman-conjecture-4-2"
+    },
+    {
+      "attribution": null,
+      "authors": [
+        {
+          "affiliation": "ChronoAI Pte Ltd, Singapore",
+          "name": "Haobo Ma"
+        },
+        {
+          "affiliation": "National University of Singapore; ChronoAI Pte Ltd, Singapore",
+          "name": "Wenlin Zhang"
+        }
+      ],
+      "claim": "s4",
+      "contributor": null,
+      "identity": "collected:klanderman-conjecture-4-2:2:s4",
+      "kind": "paper",
+      "label": "Corollary",
+      "lean_source": {
+        "revision": "8acba483bc80695fef00c6b8c491e2ae16d5145f",
+        "url": "https://github.com/the-omega-institute/trureturing/blob/8acba483bc80695fef00c6b8c491e2ae16d5145f/D5/S3/FiniteGroups/KlandermanConjecture42Refutation.lean"
+      },
+      "lineage": "collected:klanderman-conjecture-4-2:s4",
+      "macros": {
+        "\\Hull": "\\operatorname{Hull}",
+        "\\Sub": "\\operatorname{Sub}",
+        "\\gen": "\\operatorname{gen}",
+        "\\id": "\\operatorname{id}"
+      },
+      "next_step": "Existing Lean evidence is being checked before new proof work.",
+      "proof_basis": null,
+      "proof_state": "preparing",
+      "receipt": null,
+      "record": "klanderman-conjecture-4-2",
+      "scope": "in_scope",
+      "statement": "For $T=P$, the ordinary generated extension is\n$U=\\id\\cup\\{(e,H):H\\leq G\\}$.\nIt is incompatible with $P$ exactly when there are subgroups\n$e<C<A<G$.\nOrdinary generation is compatible for every $T$ satisfying the component\nhypotheses if and only if there is no such chain.",
+      "status": "preparing",
+      "target_digest": null,
+      "title": "Correcting Klanderman et al.'s isolated-top transfer-system conjecture via DeMark et al.'s tulip theorem",
+      "toolchain": null,
+      "version": 2,
+      "work": "klanderman-conjecture-4-2"
+    }
+  ]
+}

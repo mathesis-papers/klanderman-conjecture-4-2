@@ -1,0 +1,7 @@
+Copyright 2026 Haobo Ma and Wenlin Zhang.
+
+This note and its accompanying original sources are licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0).
+License text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+The cited scientific works and linked Lean source retain their own licenses.
