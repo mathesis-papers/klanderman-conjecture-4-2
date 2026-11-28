@@ -31,6 +31,7 @@
     "concept_doi": "10.5281/zenodo.24413789",
     "current_version": 2,
     "doi": "10.5281/zenodo.24413790",
+    "kind": "note",
     "lean_source": {
       "revision": "8acba483bc80695fef00c6b8c491e2ae16d5145f",
       "url": "https://github.com/the-omega-institute/trureturing/blob/8acba483bc80695fef00c6b8c491e2ae16d5145f/D5/S3/FiniteGroups/KlandermanConjecture42Refutation.lean"
@@ -55,10 +56,12 @@
     "title": "Correcting Klanderman et al.'s isolated-top transfer-system conjecture via DeMark et al.'s tulip theorem",
     "versions": [
       {
+        "changelog": null,
         "previous_version": null,
         "published_on": "2026-11-23T15:53:12.877044244Z",
         "revision": "2",
-        "version": 2
+        "version": 2,
+        "version_label": null
       }
     ],
     "work": "klanderman-conjecture-4-2"
